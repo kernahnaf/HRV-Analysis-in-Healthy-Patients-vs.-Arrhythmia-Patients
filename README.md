@@ -1,4 +1,4 @@
-# 🩺 Heart Rate Variability (HRV) Analysis using NIFEA DB
+# 🩺 Heart Rate Variability (HRV) Analysis
 
 A Python implementation analyzing autonomic dysfunction using the NIFEA database (Non-Invasive Fetal ECG Arrhythmia Database).
 
